@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "eventutti-app-00",
+    "slug": "eventutti-app-00",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/image/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3F51B5"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
